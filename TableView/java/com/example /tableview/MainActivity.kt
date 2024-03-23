@@ -10,7 +10,7 @@ import com.example.tableview2.R
 class MainActivity : AppCompatActivity() {
     private lateinit var imageView: ImageView
     private lateinit var button: Button
-    private val images = arrayOf(R.drawable.image1, R.drawable.image2, R.drawable.image3, R.drawable.image4, R.drawable.image5,R.drawable.image6, R.drawable.image7) // добавьте здесь свои изображения
+    private val images = arrayOf(R.drawable.image1, R.drawable.2, R.drawable.3, R.drawable.4, R.drawable.5,R.drawable.6, R.drawable.7) // добавьте здесь свои изображения
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
